@@ -23,7 +23,7 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
@@ -40,6 +40,9 @@ projects:
   # vk: your_username
 
 topics:
+  - name: Geometric Algebra
+    web_url: https://github.com/topics/geometric-algebra
+    image_url: https://upload.wikimedia.org/wikipedia/commons/2/27/N_vector_positive.svg
   - name: Rust
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/rust/rust.png
