@@ -28,7 +28,8 @@ projects:
     # - repo-name
 
 social_media:
-  stackoverflow: utensil
+  # https://stackoverflow.com/users/200764/utensil
+  stackoverflow: 200764
   facebook: utensilsong
   twitter: _utensil_
   linkedin: utensil
