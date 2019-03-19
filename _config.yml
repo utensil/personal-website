@@ -27,17 +27,17 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
-  # behance: your_username
-  # dribbble: your_username
-  # facebook: your_username
-  # linkedin: your_username
-  # medium: @your_username
-  # stackoverflow: your_user_id
-  # telegram: your_username
-  # twitter: your_username
-  # youtube: your_username
-  # vk: your_username
+social_media:
+  stackoverflow: utensil
+  facebook: utensilsong
+  twitter: _utensil_
+  linkedin: utensil
+  telegram: utensil
+  # youtube: UtensilSong
+  # medium: @utensilsong
+  # behance: utensil
+  # dribbble: utensil
+  # vk: utensilsong
 
 topics:
   - name: Geometric Algebra
@@ -46,3 +46,6 @@ topics:
   - name: Rust
     web_url: https://github.com/topics/rust
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/rust/rust.png
+  - name: Julia
+    web_url: https://github.com/topics/julia
+    image_url: https://raw.githubusercontent.com/github/explore/49e13f12be05e7e3f3616bb7a5030d70b259f320/topics/julia/julia.png
