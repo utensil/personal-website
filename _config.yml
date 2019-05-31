@@ -22,10 +22,13 @@ projects:
   #   - pushed
   #   - stars
   limit: 9
+  archived: false
+  forks: true
   exclude:
     forks: false
     projects:
-    # - repo-name
+    archived: false
+    forks: true
 
 social_media:
   website: http://utensil.github.io/tech/
@@ -40,10 +43,6 @@ social_media:
   # behance: utensil
   # dribbble: utensil
   # vk: utensilsong
-    archived: false
-    forks: true
-    projects:
-    # - repo-name
   # hackerrank: your_username
   # keybase: your_username
   # mastodon: your_username
