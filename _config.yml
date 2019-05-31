@@ -21,10 +21,12 @@ links:
     name: 技术博客
     url: http://utensil.github.io/tech/
     icon: telescope
+    color: "#ffffff"
   -
     name: 文字博客
     url: http://utensil.github.io/tech/
     icon: book
+    color: "#ffffff"
 
 projects:
   sort_by: pushed
