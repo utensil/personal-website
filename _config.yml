@@ -16,6 +16,16 @@ defaults:
     values:
       layout: "post"
 
+links:
+  -
+    name: 技术博客
+    url: http://utensil.github.io/tech/
+    icon: telescope
+  -
+    name: 文字博客
+    url: http://utensil.github.io/tech/
+    icon: book
+
 projects:
   sort_by: pushed
   # sort_by options:
@@ -31,7 +41,7 @@ projects:
     forks: true
 
 social_media:
-  website: http://utensil.github.io/tech/
+  # website: http://utensil.github.io/tech/
   # https://stackoverflow.com/users/200764/utensil
   stackoverflow: 200764
   facebook: utensilsong
