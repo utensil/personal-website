@@ -50,7 +50,7 @@
     {% if site.links %}
       {% for link in site.links %}
       <div class="{{ metadata_styles }}">
-        {% octicon {{ link.icon }} height:20 class:"mr-2 v-align-middle" fill:#ffffff aria-label:{{link.name}} target="_blank"%}
+        {% octicon {{ link.icon }} height:20 class:"mr-2 v-align-middle" fill:#ffffff aria-label:{{link.name}} target:"_blank"%}
         <a href="{{ link.url }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
           {{ link.name }}
         </a>
