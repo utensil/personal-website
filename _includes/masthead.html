@@ -23,7 +23,7 @@
     {% if site.links %}
       {% for link in site.links %}
       <div class="{{ metadata_styles }}">
-        {% octicon {{ link.icon }} height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:GitHub %}
+        {% octicon {{ link.icon }} height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:{{link.name}} %}
         <a href="{{ link.url }}" {% if site.style == 'dark' %}class="text-white"{% endif %}>
           {{ link.name }}
         </a>
