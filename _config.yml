@@ -28,6 +28,7 @@ projects:
     # - repo-name
 
 social_media:
+  website: http://utensil.github.io/tech/
   # https://stackoverflow.com/users/200764/utensil
   stackoverflow: 200764
   facebook: utensilsong
@@ -39,6 +40,14 @@ social_media:
   # behance: utensil
   # dribbble: utensil
   # vk: utensilsong
+    archived: false
+    forks: true
+    projects:
+    # - repo-name
+  # hackerrank: your_username
+  # keybase: your_username
+  # mastodon: your_username
+  # unsplash: your_username
 
 topics:
   - name: Geometric Algebra
